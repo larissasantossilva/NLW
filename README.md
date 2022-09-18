@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui para acessar](https://larissasantossilva.github.io/NLW/)
+[Clique aqui para acessar](https://larissasantossilva.github.io/NLW/)
 
 ## Tecnologias
 
