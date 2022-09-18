@@ -14,5 +14,5 @@ Projeto construido no evento Next Level Week da Rocketseat.
 - CSS
 - Git E Github
 
-## Contatos 🧡
+## Contatos 
 larysantos91@gmail.com 
